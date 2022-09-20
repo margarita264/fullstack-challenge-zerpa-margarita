@@ -10,7 +10,7 @@ url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
  text-shadow: 0 0 3px #000000;
  width: 300px;
  display: inline-block;
- color: white;
+ color: black;
  border-radius: 30px;
  border: none;
  padding: 40px;
@@ -21,7 +21,7 @@ url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
  box-shadow: 0 0 10px #686868;
 }
 .page {
- height: 100vh;
+ height: 50vh;
 }
 .loading-text {
  font-size: 50px;

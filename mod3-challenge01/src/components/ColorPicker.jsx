@@ -16,8 +16,8 @@ const colors = [
   },
   {
     id: 2,
-    name: "Anaranjado",
-    hex: "#F88D7F",
+    name: "Naranja",
+    hex: "#FF9551",
   },
   {
     id: 3,
