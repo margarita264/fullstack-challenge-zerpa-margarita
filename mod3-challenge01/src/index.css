@@ -1,0 +1,10 @@
+.color-square {
+  font-family: sans-serif;
+  width: 300px;
+  display: inline-block;
+  color: white;
+  border-radius: 30px;
+  padding: 40px;
+  margin: 10px;
+ }
+ 
